@@ -44,7 +44,7 @@ To build an interactive business dashboard for performance analysis and decision
 **Tools Used:**  
 - Microsoft Excel (Data analysis, Charts, Dashboard design)  
 
-**File:**  
+**File:**
 [02_Project_2_Business_Dashboard.xlsx](Project_2_Business_Dashboard/02_Project_2_Business_Dashboard.xlsx)  
 
 **Key Skills Demonstrated:**  
