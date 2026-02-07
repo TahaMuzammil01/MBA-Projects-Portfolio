@@ -45,7 +45,7 @@ To build an interactive business dashboard for performance analysis and decision
 - Microsoft Excel (Data analysis, Charts, Dashboard design)  
 
 **File:**
-[02_Project_2_Business_Dashboard.xlsx](Project_2_Business_Dashboard/02_Project_2_Business_Dashboard.xlsx)  
+02_Project_2_Business_Dashboard.xlsx (located in Project_2_Business_Dashboard folder)
 
 **Key Skills Demonstrated:**  
 - Excel data organization  
