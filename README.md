@@ -6,8 +6,8 @@ This repository showcases my MBA-related business analysis, data, and Excel proj
 
 ## 👤 About Me
 - **MBA (Systems) graduate**
-- Interested in Business Analytics, Data Analysis, and Operations  
-- Based in UAE
+- Aspiring professional in Business Analytics, Data Analysis, and Operations  
+- Based in the UAE
 
 ---
 
@@ -18,9 +18,9 @@ This repository showcases my MBA-related business analysis, data, and Excel proj
 To analyze monthly sales, expenses, and profit trends and present insights through an interactive Excel dashboard.
 
 **Files Included:**
-- `01_Project_1_Sales_Analysis.xlsx` — Raw data and basic analysis  
-- `02_Project_1_Insights.xlsx` — Key business insights derived from data  
-- `03_Project_1_Dashboard.xlsx` — Visual dashboard with trend analysis  
+- [01_Project_1_Sales_Analysis.xlsx](Project_1_Sales_Analysis/01_Project_1_Sales_Analysis.xlsx) — Raw data and basic analysis  
+- [02_Project_1_Insights.xlsx](Project_1_Sales_Analysis/02_Project_1_Insights.xlsx) — Key business insights derived from data  
+- [03_Project_1_Dashboard.xlsx](Project_1_Sales_Analysis/03_Project_1_Dashboard.xlsx) — Visual dashboard with trend analysis
 
 **Key Skills Demonstrated:**
 - Data cleaning and organization  
@@ -37,14 +37,14 @@ To build an interactive business dashboard for performance analysis and decision
 **What I did:**
 - Designed a clean and structured Excel dashboard  
 - Analyzed revenue, cost, and profitability trends  
-- Used charts and key insights for business interpretation  
+- Used charts and derived key insights for business interpretation  
 - Created a visually professional and readable layout  
 
 **Tools Used:**  
 - Microsoft Excel (Data analysis, Charts, Dashboard design)
 
-**File:**  
-`Project_2_Business_Dashboard/02_Project_2_Business_Dashboard.xlsx`
+**File:**
+[02_Project_2_Business_Dashboard.xlsx](Project_2_Business_Dashboard/02_Project_2_Business_Dashboard.xlsx)
 
 **Key Skills Demonstrated:**
 - Excel data organization  
